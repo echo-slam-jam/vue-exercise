@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: 'vue-exercise',
+  publicPath: 'vue-app',
 }
